@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.alexITI;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
